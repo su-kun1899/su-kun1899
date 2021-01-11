@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as web application developer.
+- ❤️ I love Java, Kotlin, Go and PHP.
+- 😄 My favorites are Agile, Scrum, TDD.
+- 📫 https://twitter.com/su_kun_1899
