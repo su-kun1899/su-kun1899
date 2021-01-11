@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 - ❤️ I love Java, Kotlin, Go and PHP.
 - 😄 My favorites are Agile, Scrum, TDD.
 - 📫 https://twitter.com/su_kun_1899
+
+![](https://raw.githubusercontent.com/su-kun1899/su-kun1899/main/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/su-kun1899/su-kun1899/main/profile-summary-card-output/github/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/su-kun1899/su-kun1899/main/profile-summary-card-output/github/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/su-kun1899/su-kun1899/main/profile-summary-card-output/github/3-stats.svg)
