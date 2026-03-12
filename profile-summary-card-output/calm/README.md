@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/su-kun1899/su-kun1899/main/profile-summary-card-output/calm/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/su-kun1899/su-kun1899/main/profile-summary-card-output/calm/4-productive-time.svg)
-```
-
-    
